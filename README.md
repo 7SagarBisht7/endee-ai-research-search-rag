@@ -1,3 +1,11 @@
+# 🚀 Candidate Assessment Submission: AI Research RAG Assistant
+**Candidate:** Sagar Bisht  
+**Project Folder:** `ai-research-rag`  
+
+### 👉 [CLICK HERE TO VIEW MY COMPLETE PROJECT & README](./ai-research-rag) 👈
+
+---
+
 <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
